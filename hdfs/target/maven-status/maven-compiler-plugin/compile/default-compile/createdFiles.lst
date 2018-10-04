@@ -1,0 +1,13 @@
+MapReduce/ParititonerApp$MyReducer.class
+MapReduce/WordCount2App$MyReducer.class
+MapReduce/WordCountApp$MyReducer.class
+MapReduce/WordCount2App$MyMapper.class
+MapReduce/WordCount2App.class
+MapReduce/CombinerApp$MyReducer.class
+MapReduce/WordCountApp.class
+MapReduce/ParititonerApp$MyPartitioner.class
+MapReduce/ParititonerApp$MyMapper.class
+MapReduce/CombinerApp$MyMapper.class
+MapReduce/WordCountApp$MyMapper.class
+MapReduce/ParititonerApp.class
+MapReduce/CombinerApp.class
