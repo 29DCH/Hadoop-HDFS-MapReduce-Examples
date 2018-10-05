@@ -1,4 +1,4 @@
-# Hadoop-MapReduce-Examples
+# Hadoop-HDFS&MapReduce-Examples
 采用IDEA+Maven，导入项目，在命令行测试即可，详细操作见我的博客
 
 
